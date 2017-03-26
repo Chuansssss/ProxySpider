@@ -3,4 +3,4 @@ This is a mini project in iChunqiu network security course. It gets the content 
 This project has deployed "www.xicidaili.com/nn" as the resources and the ip proxies listed in it. They are used only for academic purposes. Please do not use it for any other purposes.
 
 # Reference
-I want to convey my appreciation to iChunqiu and the advisor of the course ADO for this project.
+I want to convey my appreciation to iChunqiu and ADO, the advisor of the course, for this project.
